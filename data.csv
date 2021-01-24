@@ -1,5 +1,5 @@
-;date;url;text;source;json;img
-0;" ""2021-01-22 20:40:08""";https://piaui.folha.uol.com.br/lupa/2021/01/22/verificamos-estados-unidos-recomendar-hidroxicloroquina/;" ""Hidroxicloroquina!  Após o presidente Bolsonaro negar apoio ao uso da Vacina Chinesa Coronavac, e ser acusado pelo Governador de São Paulo João Doria por negacionista em defesa do uso de cloroquina.  Hoje 22/01, o Estados Unidos tbem aderiu em Sistema de Saúde a indicação de Hidroxicloroquina a população Americana!""";" ""Post no Facebook""";"                                
+;date;url;text;source;classification;json;img
+0;" ""2021-01-22 20:40:08""";https://piaui.folha.uol.com.br/lupa/2021/01/22/verificamos-estados-unidos-recomendar-hidroxicloroquina/;" ""Hidroxicloroquina!  Após o presidente Bolsonaro negar apoio ao uso da Vacina Chinesa Coronavac, e ser acusado pelo Governador de São Paulo João Doria por negacionista em defesa do uso de cloroquina.  Hoje 22/01, o Estados Unidos tbem aderiu em Sistema de Saúde a indicação de Hidroxicloroquina a população Americana!""";" ""Post no Facebook"""; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
@@ -30,7 +30,7 @@
                                         }
                                     }
                                     ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Hidroxicloroquina-nos-EUA-22.01.png
-1;" ""2021-01-22 11:08:18""";https://piaui.folha.uol.com.br/lupa/2021/01/22/verificamos-ivermectina-liverpool/;" ""Cientistas britânicos afirmam que ivermectina reduz mortes por Covid em até 75%""";" ""Brasil Sem Medo (jornal)""";"                                
+1;" ""2021-01-22 11:08:18""";https://piaui.folha.uol.com.br/lupa/2021/01/22/verificamos-ivermectina-liverpool/;" ""Cientistas britânicos afirmam que ivermectina reduz mortes por Covid em até 75%""";" ""Brasil Sem Medo (jornal)"""; Exagerado;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
@@ -61,7 +61,38 @@
                                         }
                                     }
                                     ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Ivermectina-21.01.png
-2;" ""2021-01-19 14:58:09""";https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/;" ""Na Inglaterra, fizeram estudos com animais, cachorros, uns meses atrás. E vacinaram 20 cachorros. Os outros 20 não vacinaram. Os 20 que não vacinaram passaram bem, continuaram, não morreram. E todos os 20 que vacinaram morreram. É a mesma vacina que eles estão usando, é a mesma.""";" ""Áudio no WhatsApp""";"                                
+2;" ""2021-01-22 11:08:18""";https://piaui.folha.uol.com.br/lupa/2021/01/22/verificamos-ivermectina-liverpool/;" ""Análise de pesquisadores da Universidade de Liverpool aponta ivermectina como tratamento eficaz e acessível em casos da doença""";" ""Brasil Sem Medo (jornal)"""; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-22 11:08:18"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/22/verificamos-ivermectina-liverpool/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""Análise de pesquisadores da Universidade de Liverpool aponta ivermectina como tratamento eficaz e acessível em casos da doença"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Brasil Sem Medo (jornal)"",
+                                                ""sameAs"": ""https://l.facebook.com/l.php?u=https%3A%2F%2Fbrasilsemmedo.com%2Fcientistas-britanicos-afirmam-que-ivermectina-reduz-mortes-por-covid-em-ate-75%2F%3Ffbclid%3DIwAR2lDSbW0UVhO4fiBnMMUXMuJWwdvsjDuXgB2822Rd6mVFh_zsw5zAA_xZg&h=AT1tgPsze5xWydPjddI1x1xZnI--UF4DIwES0dYrgZHchWX2kMv1gP_7Wxlwh4BsLwapQhA7AD3Cg5f7wAEoODYypwhCpXbVW_avZi5DM9qiGV6lE0i8U1vJ0hGdFEMRyEm0IEKVCi4sfhH1SWuK_sf56h5sGDfPbg""
+                                            },
+                                            ""datePublished"": ""2021-01-22 11:08:18""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Ivermectina-21.01.png
+3;" ""2021-01-19 14:58:09""";https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/;" ""Na Inglaterra, fizeram estudos com animais, cachorros, uns meses atrás. E vacinaram 20 cachorros. Os outros 20 não vacinaram. Os 20 que não vacinaram passaram bem, continuaram, não morreram. E todos os 20 que vacinaram morreram. É a mesma vacina que eles estão usando, é a mesma.""";" ""Áudio no WhatsApp"""; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
@@ -92,7 +123,224 @@
                                         }
                                     }
                                     ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Áudio-WhatsAoo-Vacinas-18.1.21.png
-3;" ""2021-01-18 10:06:07""";https://piaui.folha.uol.com.br/lupa/2021/01/18/verificamos-monica-calazans-placebo/;" ""Por quê (sic) Mônica Calazans tomou a ‘primeira vacina’ se teoricamente ela já estava imunizada por ter participado dos estudos da vacina experimental do Butantan?""";" ""Post no Facebook""";"                                
+4;" ""2021-01-19 14:58:09""";https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/;" ""“Na Austrália, o governo cancelou a vacinação em massa, um programa de 300 milhões de dólares que eles tinham começado antes de agora terem encontrado HIV em todas as vacinas, coisa que eu já vinha falando há muito tempo.”""";" ""Áudio no WhatsApp"""; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-19 14:58:09"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“Na Austrália, o governo cancelou a vacinação em massa, um programa de 300 milhões de dólares que eles tinham começado antes de agora terem encontrado HIV em todas as vacinas, coisa que eu já vinha falando há muito tempo.”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Áudio no WhatsApp"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-01-19 14:58:09""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Áudio-WhatsAoo-Vacinas-18.1.21.png
+5;" ""2021-01-19 14:58:09""";https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/;" ""“Agora tem essa versão aí com HIV e com outros produtos para causar infertilidade. Toda a comunidade científica internacional já sabe disso.”""";" ""Áudio no WhatsApp"""; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-19 14:58:09"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“Agora tem essa versão aí com HIV e com outros produtos para causar infertilidade. Toda a comunidade científica internacional já sabe disso.”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Áudio no WhatsApp"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-01-19 14:58:09""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Áudio-WhatsAoo-Vacinas-18.1.21.png
+6;" ""2021-01-19 14:58:09""";https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/;" ""“Essa da Pfizer, os diretores são chineses. Os acionistas da Pfizer são chineses. Os da Moderna também, da GlaxoSmithKline também”""";" ""Áudio no WhatsApp"""; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-19 14:58:09"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“Essa da Pfizer, os diretores são chineses. Os acionistas da Pfizer são chineses. Os da Moderna também, da GlaxoSmithKline também”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Áudio no WhatsApp"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-01-19 14:58:09""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Áudio-WhatsAoo-Vacinas-18.1.21.png
+7;" ""2021-01-19 14:58:09""";https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/;" ""“Então não adianta, não existe vacina por uma coisa tão fajuta como esse vírus que ninguém conseguiu isolar. (...) Viram in vitro, mas ninguém pegou um paciente que morreu, fizeram a autópsia e ‘tá aqui o vírus’. Porque não vai achar. Como eles fazem uma vacina para a população tomar se eles não sabem nem o que estão fazendo, que é só baseado em sintomas, são só sintomas. Não tem um grupo de sintomas (...)""";" ""Áudio no WhatsApp"""; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-19 14:58:09"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“Então não adianta, não existe vacina por uma coisa tão fajuta como esse vírus que ninguém conseguiu isolar. (...) Viram in vitro, mas ninguém pegou um paciente que morreu, fizeram a autópsia e ‘tá aqui o vírus’. Porque não vai achar. Como eles fazem uma vacina para a população tomar se eles não sabem nem o que estão fazendo, que é só baseado em sintomas, são só sintomas. Não tem um grupo de sintomas (...)"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Áudio no WhatsApp"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-01-19 14:58:09""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Áudio-WhatsAoo-Vacinas-18.1.21.png
+8;" ""2021-01-19 14:58:09""";https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/;" ""“Não tomando a vacina, tu tem 99,7% de chance de sobreviver. Até mais que isso. Se tu tomar hidroxicloroquina, ivermectina e zinco, esses coquetéis, tu tem 99,9%, para não dizer 100%, depende das tuas circunstancias fisiológicas no momento”""";" ""Áudio no WhatsApp"""; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-19 14:58:09"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“Não tomando a vacina, tu tem 99,7% de chance de sobreviver. Até mais que isso. Se tu tomar hidroxicloroquina, ivermectina e zinco, esses coquetéis, tu tem 99,9%, para não dizer 100%, depende das tuas circunstancias fisiológicas no momento”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Áudio no WhatsApp"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-01-19 14:58:09""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Áudio-WhatsAoo-Vacinas-18.1.21.png
+9;" ""2021-01-19 14:58:09""";https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/;" ""“O próprio HIV foi criado em laboratório, isso já se sabe também e já vão ser liberadas essas informações também (...).”""";" ""Áudio no WhatsApp"""; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-19 14:58:09"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“O próprio HIV foi criado em laboratório, isso já se sabe também e já vão ser liberadas essas informações também (...).”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Áudio no WhatsApp"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-01-19 14:58:09""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Áudio-WhatsAoo-Vacinas-18.1.21.png
+10;" ""2021-01-19 14:58:09""";https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/;" ""“O teste do PCR é totalmente falso. Quem tiver alguma dúvida no teste do PCR, ele não foi feito pra isso, ele testa um cromossomo, não testa nada de vírus, desse aí. A pessoa tá com resfriado dá positivo, uma mão dá positivo, a Coca-Cola dá positivo, o abacaxi dá positivo. Tudo dá positivo.  O PCR é só para aumentar os números. E para justificar a quarentena, justificar as vacinas e botar medo nas pessoas. Tomara que muita gente tome essa vacina porque o mundo precisa se libertar desses ignorantes que a gente tem aí no Brasil.”""";" ""Áudio no WhatsApp"""; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-19 14:58:09"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/19/verificamos-audio-whatsapp-vacina-hiv-cachorros-pcr/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“O teste do PCR é totalmente falso. Quem tiver alguma dúvida no teste do PCR, ele não foi feito pra isso, ele testa um cromossomo, não testa nada de vírus, desse aí. A pessoa tá com resfriado dá positivo, uma mão dá positivo, a Coca-Cola dá positivo, o abacaxi dá positivo. Tudo dá positivo.  O PCR é só para aumentar os números. E para justificar a quarentena, justificar as vacinas e botar medo nas pessoas. Tomara que muita gente tome essa vacina porque o mundo precisa se libertar desses ignorantes que a gente tem aí no Brasil.”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Áudio no WhatsApp"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-01-19 14:58:09""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Áudio-WhatsAoo-Vacinas-18.1.21.png
+11;" ""2021-01-18 10:06:07""";https://piaui.folha.uol.com.br/lupa/2021/01/18/verificamos-monica-calazans-placebo/;" ""Por quê (sic) Mônica Calazans tomou a ‘primeira vacina’ se teoricamente ela já estava imunizada por ter participado dos estudos da vacina experimental do Butantan?""";" ""Post no Facebook"""; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
@@ -123,7 +371,7 @@
                                         }
                                     }
                                     ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/printcalazansfaje.png
-4;" ""2021-01-15 19:42:24""";https://piaui.folha.uol.com.br/lupa/2021/01/15/verificamos-detran-recolher-veiculos-manaus/;" """"Confirmado pelo Departamento Estadual de Trânsito do Amazonas, nenhum veículo poderá circular nas ruas de Manaus a partir de hoje dia 14.01.2021 iniciando ás 19:00 horas até ás 05:00 Veículo que for pego circulando nas ruas serão recolhidos para o parqueamento do DETRAN.”""";" ""Mensagem no WhatsApp""";"                                
+12;" ""2021-01-15 19:42:24""";https://piaui.folha.uol.com.br/lupa/2021/01/15/verificamos-detran-recolher-veiculos-manaus/;" """"Confirmado pelo Departamento Estadual de Trânsito do Amazonas, nenhum veículo poderá circular nas ruas de Manaus a partir de hoje dia 14.01.2021 iniciando ás 19:00 horas até ás 05:00 Veículo que for pego circulando nas ruas serão recolhidos para o parqueamento do DETRAN.”""";" ""Mensagem no WhatsApp"""; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
@@ -154,7 +402,7 @@
                                         }
                                     }
                                     ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/detran-AM-Manaus.jpg
-5;" ""2021-01-15 18:49:30""";https://piaui.folha.uol.com.br/lupa/2021/01/15/verificamos-white-martins-oxigenio-amazonas/;" ""“(...) O governo do estado do Amazonas deve à White Martins R$52 milhões. A White Martins, por sua vez, com essa demanda de oxigênio, falou para o governo do estado que iria liberar uma parte do oxigênio e que o governo teria que pagar a propaganda (...). Porque dinheiro em caixa tem, então por que não paga? Pague e eu libero""";" ""Áudio no WhatsApp""";"                                
+13;" ""2021-01-15 18:49:30""";https://piaui.folha.uol.com.br/lupa/2021/01/15/verificamos-white-martins-oxigenio-amazonas/;" ""“(...) O governo do estado do Amazonas deve à White Martins R$52 milhões. A White Martins, por sua vez, com essa demanda de oxigênio, falou para o governo do estado que iria liberar uma parte do oxigênio e que o governo teria que pagar a propaganda (...). Porque dinheiro em caixa tem, então por que não paga? Pague e eu libero""";" ""Áudio no WhatsApp"""; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
@@ -185,7 +433,38 @@
                                         }
                                     }
                                     ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/áudio-governador-Manaus.png
-6;" ""2021-01-11 20:04:04""";https://piaui.folha.uol.com.br/lupa/2021/01/11/verificamos-mortes-aids-covid-19-2020/;" ""“Mortes em todo o mundo entre 01/01/2020 e 31/12/2020  Abortos .... 42.652.318 HIV / AIDS 42.371.649 Câncer .... 8.226.779 Malária .... 395.006 Fumo .... 5.007.485 Álcool .... 2.505.326 Suicídios .... 1.074.164 Tráfegos .... 1.352.186 Coronavírus .... 1.810.360 Fontes: Worldmeters e Google  Nem sempre as mortes serão causadas por um vírus, tem coisas piores matando a população.”""";" ""Post no Facebook""";"                                
+14;" ""2021-01-15 18:49:30""";https://piaui.folha.uol.com.br/lupa/2021/01/15/verificamos-white-martins-oxigenio-amazonas/;" ""“(...) Nisso, o governador não quer comprar do Marcelo Dutra [dono Carboxi, empresa localizada em Manaus que produz e comercializa gases medicinais] porque ele é oposição ao governador. Então o que o governador fez? Fez com que a polícia, a mando dele, fosse para frente das fábricas que não são do governo, digamos assim, que não votam nele, que não apoiam ele, para que eles não vendam oxigênio. (...) Como a White Martins ele deve, mas não queria pagar e teve que pagar para ter oxigênio, as outras, que são oposição a ele, ele está vetando a venda (...)”""";" ""Áudio no WhatsApp"""; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-15 18:49:30"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/15/verificamos-white-martins-oxigenio-amazonas/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“(...) Nisso, o governador não quer comprar do Marcelo Dutra [dono Carboxi, empresa localizada em Manaus que produz e comercializa gases medicinais] porque ele é oposição ao governador. Então o que o governador fez? Fez com que a polícia, a mando dele, fosse para frente das fábricas que não são do governo, digamos assim, que não votam nele, que não apoiam ele, para que eles não vendam oxigênio. (...) Como a White Martins ele deve, mas não queria pagar e teve que pagar para ter oxigênio, as outras, que são oposição a ele, ele está vetando a venda (...)”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Áudio no WhatsApp"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-01-15 18:49:30""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/áudio-governador-Manaus.png
+15;" ""2021-01-11 20:04:04""";https://piaui.folha.uol.com.br/lupa/2021/01/11/verificamos-mortes-aids-covid-19-2020/;" ""“Mortes em todo o mundo entre 01/01/2020 e 31/12/2020  Abortos .... 42.652.318 HIV / AIDS 42.371.649 Câncer .... 8.226.779 Malária .... 395.006 Fumo .... 5.007.485 Álcool .... 2.505.326 Suicídios .... 1.074.164 Tráfegos .... 1.352.186 Coronavírus .... 1.810.360 Fontes: Worldmeters e Google  Nem sempre as mortes serão causadas por um vírus, tem coisas piores matando a população.”""";" ""Post no Facebook"""; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
@@ -216,7 +495,7 @@
                                         }
                                     }
                                     ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/Mortes-2020.png
-7;" ""2021-01-05 12:55:48""";https://piaui.folha.uol.com.br/lupa/2021/01/05/verificamos-renata-vasconcellos-mascara/;" ""Ninguém de máscaras!""";" ""Post no Facebook""";"                                
+16;" ""2021-01-05 12:55:48""";https://piaui.folha.uol.com.br/lupa/2021/01/05/verificamos-renata-vasconcellos-mascara/;" ""Ninguém de máscaras!""";" ""Post no Facebook"""; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
@@ -247,7 +526,7 @@
                                         }
                                     }
                                     ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/printrenatavinterna.png
-8;" ""2021-01-04 18:34:50""";https://piaui.folha.uol.com.br/lupa/2021/01/04/verificamos-cristina-kirchner-vacina/;" ""A vice-presidente argentina é a primeira mulher a ser vacinada sem agulha, sem luvas e sem seringa, também sem máscara, nem a enfermeira nem ela. O Natal é mágico !!""";" ""Post no Facebook""";"                                
+17;" ""2021-01-04 18:34:50""";https://piaui.folha.uol.com.br/lupa/2021/01/04/verificamos-cristina-kirchner-vacina/;" ""A vice-presidente argentina é a primeira mulher a ser vacinada sem agulha, sem luvas e sem seringa, também sem máscara, nem a enfermeira nem ela. O Natal é mágico !!""";" ""Post no Facebook"""; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
@@ -278,7 +557,7 @@
                                         }
                                     }
                                     ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/cristinavacinafake.jpg
-9;" ""2020-12-21 17:05:20""";https://piaui.folha.uol.com.br/lupa/2020/12/21/verificamos-associacao-medica-americana-ama-hidroxicloroquina-covid-19/;" ""Associação Médica Americana retira as restrições contra Hidroxicloroquina""";" ""Publicação no Facebook""";"                                
+18;" ""2020-12-21 17:05:20""";https://piaui.folha.uol.com.br/lupa/2020/12/21/verificamos-associacao-medica-americana-ama-hidroxicloroquina-covid-19/;" ""Associação Médica Americana retira as restrições contra Hidroxicloroquina""";" ""Publicação no Facebook"""; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
                                         ""@type"": [""ClaimReview""],
