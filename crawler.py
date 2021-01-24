@@ -98,7 +98,10 @@ search_query = 'tag/verificamoscovid/'
 if __name__ == "__main__":
     initial_page = 1
     final_page = -1 # -1 → to search in all pages
-    print('Start scrapping', site, 'from page', initial_page, 'to', final_page)
+    if final_page != -1:
+        print('Start scrapping', site, 'from page', initial_page, 'to', final_page)
+    else:
+        print('Start scrapping', site, 'of all available pages')
     
     all_links = []
     search = True
@@ -111,7 +114,7 @@ if __name__ == "__main__":
         print('Scrapping page', number_page)
         links = scrape_search_for_links(number_page)
 
-        if (len(links) > 10): # is a page with no fake news, stop!
+        if (len(links) == 0): # is a page with no fake news, stop!
             break
         else:
             print('> Found', len(links), 'links for page', number_page)
