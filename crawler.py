@@ -104,10 +104,9 @@ if __name__ == "__main__":
         print('Start scrapping', site, 'of all available pages')
     
     all_links = []
-    search = True
     
     number_page = initial_page
-    while search:
+    while True:
         if (number_page == final_page+1):
             break
         
