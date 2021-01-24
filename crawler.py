@@ -61,7 +61,7 @@ def scrape_fake(link):
     
     if len(contents) < 3:
         print("Error: JSON is not present in the page...")
-        return [None]*6
+        return [None]*7
     
     json_list = []
 
