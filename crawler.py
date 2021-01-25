@@ -1,5 +1,5 @@
 
-#https://piaui.folha.uol.com.br/lupa/tag/verificamoscovid/page/1/
+# -*- coding: utf-8 -*-
 
 import requests
 from bs4 import BeautifulSoup
@@ -36,17 +36,17 @@ def get_data_from_json(json_data):
     json_data = json_data.replace('</script>','')
     # json_data = json_data.replace('”','"')
     
-    date = re.search('"datePublished":(.*),', json_data).group(1)
+    date = re.search('"datePublished":(.*),', json_data).group(1).replace('"','')
     
     classification = re.search('"alternateName":(.*),', json_data).group(1).replace('"','')
     
     # # url: url
     # url = re.search('"url":(.*),', json_data).group(1)
     
-    text = re.search('"claimReviewed":(.*),', json_data).group(1)
+    text = re.search('"claimReviewed":(.*),', json_data).group(1)#.replace('"','')
 
     # source: itemReviewed -> name
-    source = re.findall('"name":(.*)\r', json_data)[1].replace(',','') # the first one is the name of site (Agência Lupa)
+    source = re.findall('"name":(.*)\r', json_data)[1].replace(',','').replace('"','') # the first one is the name of site (Agência Lupa)
     
     return date, text, source, classification, json_data
 
@@ -91,7 +91,7 @@ def scrape_fake(link):
 
     
     
-
+#https://piaui.folha.uol.com.br/lupa/tag/verificamoscovid/page/1/
 site = "https://piaui.folha.uol.com.br/lupa/"
 search_query = 'tag/verificamoscovid/'
 
@@ -149,5 +149,6 @@ if __name__ == "__main__":
     
     
     df = pd.DataFrame(all_fakes)
-    df.to_csv('data.csv',sep=';') #'''
+    df.to_csv('data.csv',sep=';',index=False) #'''
+    print('Finished!')
 
