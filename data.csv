@@ -1,4 +1,345 @@
 date;url;text;source;classification;json;img
+ 2021-02-23 19:44:49;https://piaui.folha.uol.com.br/lupa/2021/02/23/verificamos-vacinas-covid-19-cegueira-reino-unido/;" ""Vacinas Causam 600 Novos Casos De Doenças Oculares E Deixam 5 Pessoas Cegas, De Acordo Com O Governo Do Reino Unido"""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-02-23 19:44:49"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/02/23/verificamos-vacinas-covid-19-cegueira-reino-unido/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""Vacinas Causam 600 Novos Casos De Doenças Oculares E Deixam 5 Pessoas Cegas, De Acordo Com O Governo Do Reino Unido"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.contrafatos.com.br/vacinas-causam-600-novos-casos-de-doencas-oculares-e-deixam-5-pessoas-cegas-de-acordo-com-o-governo-do-reino-unido/""
+                                            },
+                                            ""datePublished"": ""2021-02-23 19:44:49""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/vacinas-reino-unido-pessoas-cegas.jpg
+ 2021-02-19 18:25:11;https://piaui.folha.uol.com.br/lupa/2021/02/19/verificamos-e-falso-calendario-de-vacinacao-contra-covid-19-de-pessoas-entre-55-74-anos-em-marco/;" ""Repassando: Primeira fase de imunização dos Idosos  01 de março - 74 anos 02 de março - 73 anos (...) 25 de março - 56 anos 26 de março - 55 anos  Se vc não chegou nessas faixas etárias, algum amigo ou familiar seu com certeza sim, repasse vc tbem"""; Mensagem no WhatsApp; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-02-19 18:25:11"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/02/19/verificamos-e-falso-calendario-de-vacinacao-contra-covid-19-de-pessoas-entre-55-74-anos-em-marco/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""Repassando: Primeira fase de imunização dos Idosos  01 de março - 74 anos 02 de março - 73 anos (...) 25 de março - 56 anos 26 de março - 55 anos  Se vc não chegou nessas faixas etárias, algum amigo ou familiar seu com certeza sim, repasse vc tbem"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Mensagem no WhatsApp"",
+                                                ""sameAs"": ""https://www.facebook.com/940310616041214/posts/5092344937504407""
+                                            },
+                                            ""datePublished"": ""2021-02-19 18:25:11""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/vacinacao-idosos-calendario.jpg
+ 2021-02-11 19:03:38;https://piaui.folha.uol.com.br/lupa/2021/02/11/verificamos-estudo-mascaras-microbios-cancer/;" ""Estudo diz que uso de máscara a longo prazo cria micróbios que contribuem para o câncer de pulmão"""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-02-11 19:03:38"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/02/11/verificamos-estudo-mascaras-microbios-cancer/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""Estudo diz que uso de máscara a longo prazo cria micróbios que contribuem para o câncer de pulmão"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.stylourbano.com.br/estudo-diz-que-uso-de-mascara-a-longo-prazo-cria-microbios-que-contribuem-para-o-cancer-de-pulmao/""
+                                            },
+                                            ""datePublished"": ""2021-02-11 19:03:38""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/estudo-mascara-microbios.jpg
+ 2021-02-10 18:46:36;https://piaui.folha.uol.com.br/lupa/2021/02/10/verificamos-outdoors-elogio-doria/;" ""Doria pega 400milhões dos impostos paulistas e monta em 14estados do BR outdoor gigante escrito 'Parabens Doria V de Vacina V de Vitoria"""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-02-10 18:46:36"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/02/10/verificamos-outdoors-elogio-doria/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""Doria pega 400milhões dos impostos paulistas e monta em 14estados do BR outdoor gigante escrito 'Parabens Doria V de Vacina V de Vitoria"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.facebook.com/silviamaria.ravelli/posts/3641318605951606""
+                                            },
+                                            ""datePublished"": ""2021-02-10 18:46:36""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/doria-outdoor-400-milhoes.jpg
+ 2021-02-05 19:21:19;https://piaui.folha.uol.com.br/lupa/2021/02/05/verificamos-vacinas-morte-estados-unidos/;" ""“181 americanos morreram em razão das vacinas contra covid em apenas duas semanas”"""; Post no Facebook ; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-02-05 19:21:19"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/02/05/verificamos-vacinas-morte-estados-unidos/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“181 americanos morreram em razão das vacinas contra covid em apenas duas semanas”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook "",
+                                                ""sameAs"": ""https://imprensabrasil.com.br/2021/02/03/181-americanos-morreram-em-razao-das-vacinas-contra-covid-em-apenas-duas-semanas/?fbclid=IwAR0V2_eE-DFZrgn4dTk7B48BLIv9VQOKoteslVdSUPSf0Qdk6U8w1ohtZgQ""
+                                            },
+                                            ""datePublished"": ""2021-02-05 19:21:19""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/181-mortos-por-vacina-nos-EUA-_-Interna.png
+ 2021-02-04 18:20:05;https://piaui.folha.uol.com.br/lupa/2021/02/04/verificamos-pastor-vacinado-coronavac-tocantins/;" ""Pastor Venceslau Presidente da Igreja Assembléia de Deus - Madureira em Araguaína - TO. Tomou a VaCHINA e na madrugada do dia seguinte passou mal e veio a óbito pela manhã"""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-02-04 18:20:05"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/02/04/verificamos-pastor-vacinado-coronavac-tocantins/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""Pastor Venceslau Presidente da Igreja Assembléia de Deus - Madureira em Araguaína - TO. Tomou a VaCHINA e na madrugada do dia seguinte passou mal e veio a óbito pela manhã"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.facebook.com/photo.php?fbid=401884507767070&set=a.111757746779749&type=3""
+                                            },
+                                            ""datePublished"": ""2021-02-04 18:20:05""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/pastor-assembleia-de-deus-araguaina-vacina.jpg
+ 2021-02-01 18:58:04;https://piaui.folha.uol.com.br/lupa/2021/02/01/verificamos-hidroxicloroquina-estados-unidos-trump/;" ""“EFEITO BIDEN Tratamento precoce começa a ser visto com outros olhos Após a saída de Donald Trump, uso da hidroxicloroquina é reavaliado favoravelmente nos EUA.”"""; Post no Facebook ; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-02-01 18:58:04"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/02/01/verificamos-hidroxicloroquina-estados-unidos-trump/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“EFEITO BIDEN Tratamento precoce começa a ser visto com outros olhos Após a saída de Donald Trump, uso da hidroxicloroquina é reavaliado favoravelmente nos EUA.”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook "",
+                                                ""sameAs"": ""https://www.facebook.com/JornalBSM/photos/a.150632186415543/262347785243982/?type=3&theater""
+                                            },
+                                            ""datePublished"": ""2021-02-01 18:58:04""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/0102-Hidroxicloroquina-Biden-EUA-Interna.png
+ 2021-02-01 10:47:16;https://piaui.folha.uol.com.br/lupa/2021/02/01/verificamos-doria-libertadores-santos/;" ""Esse FDP,FECHA TD EM SP JUNTO COM O COVEIRO e VAI para o Maracanã .Cadê a Máscara CALCINHA APERTADA"""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-02-01 10:47:16"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/02/01/verificamos-doria-libertadores-santos/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""Esse FDP,FECHA TD EM SP JUNTO COM O COVEIRO e VAI para o Maracanã .Cadê a Máscara CALCINHA APERTADA"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.facebook.com/beth.candeo/posts/4015419348490550""
+                                            },
+                                            ""datePublished"": ""2021-02-01 10:47:16""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/02/printdoriainterna.png
+ 2021-01-26 17:38:54;https://piaui.folha.uol.com.br/lupa/2021/01/26/verificamos-fernanda-torres-abreviar-governo/;" ""“Dane-se o povo e os cadáveres, se o vírus cumprir 'sua missão' de 'abreviar' o governo, tudo está bem”"""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-26 17:38:54"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/26/verificamos-fernanda-torres-abreviar-governo/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“Dane-se o povo e os cadáveres, se o vírus cumprir 'sua missão' de 'abreviar' o governo, tudo está bem”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.facebook.com/photo.php?fbid=3909388842458662&set=a.850687644995479&type=3&theater""
+                                            },
+                                            ""datePublished"": ""2021-01-26 17:38:54""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/2601-frase-fernanda-torres-interna.png
+ 2021-01-25 19:51:29;https://piaui.folha.uol.com.br/lupa/2021/01/25/verificamos-amapa-taxa-letalidade-covid-19/;" ""“Amapá faz tratamento precoce (...)”"""; Post no Facebook; Verdadeiro;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-25 19:51:29"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/25/verificamos-amapa-taxa-letalidade-covid-19/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“Amapá faz tratamento precoce (...)”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Verdadeiro"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.facebook.com/TVeSaude/photos/a.234546727283175/921883021882872/?type=3&__xts__[0]=68.ARDThpnmXTcmeP5uRpf7ja7b9jIP0lwZU7qR3ubUxGbu6o56S5AwdASyyNVBctjPjNmJ9NYYhZCrxhUxthJ38xLF6aJN_6WJIlsJl8G7jGKd7qJNSUTfo41RU7CtGm13LFe64Nnq8tTXA62Dt8s4ROkcM-CPLLuiGKj-A0v-tO1q56Ep_w1gvSKHKYHyBQzkquYjEIWd5yvUpjogM5I1H9-GANFMgNPPApuseQGTj9aCRxGwqqC1A0jiMyWmJ6AhmZ_IcP38RlUjQtHlv0T8JBQdXbUG_28Q""
+                                            },
+                                            ""datePublished"": ""2021-01-25 19:51:29""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/amapá-interna.png
+ 2021-01-25 19:51:29;https://piaui.folha.uol.com.br/lupa/2021/01/25/verificamos-amapa-taxa-letalidade-covid-19/;" """"[Amapá] tem uma das menores taxas de letalidade do mundo!”"""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-01-25 19:51:29"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/01/25/verificamos-amapa-taxa-letalidade-covid-19/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": """"[Amapá] tem uma das menores taxas de letalidade do mundo!”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.facebook.com/TVeSaude/photos/a.234546727283175/921883021882872/?type=3&__xts__[0]=68.ARDThpnmXTcmeP5uRpf7ja7b9jIP0lwZU7qR3ubUxGbu6o56S5AwdASyyNVBctjPjNmJ9NYYhZCrxhUxthJ38xLF6aJN_6WJIlsJl8G7jGKd7qJNSUTfo41RU7CtGm13LFe64Nnq8tTXA62Dt8s4ROkcM-CPLLuiGKj-A0v-tO1q56Ep_w1gvSKHKYHyBQzkquYjEIWd5yvUpjogM5I1H9-GANFMgNPPApuseQGTj9aCRxGwqqC1A0jiMyWmJ6AhmZ_IcP38RlUjQtHlv0T8JBQdXbUG_28Q""
+                                            },
+                                            ""datePublished"": ""2021-01-25 19:51:29""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/amapá-interna.png
  2021-01-22 20:40:08;https://piaui.folha.uol.com.br/lupa/2021/01/22/verificamos-estados-unidos-recomendar-hidroxicloroquina/;" ""Hidroxicloroquina!  Após o presidente Bolsonaro negar apoio ao uso da Vacina Chinesa Coronavac, e ser acusado pelo Governador de São Paulo João Doria por negacionista em defesa do uso de cloroquina.  Hoje 22/01, o Estados Unidos tbem aderiu em Sistema de Saúde a indicação de Hidroxicloroquina a população Americana!"""; Post no Facebook; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",
