@@ -1,4 +1,314 @@
 date;url;text;source;classification;json;img
+ 2021-03-18 15:29:21;https://piaui.folha.uol.com.br/lupa/2021/03/18/verificamos-medicos-europeus-ivermectina/;" """"MÉDICOS EUROPEUS PEDEM USO URGENTE DA IVERMECTINA”"""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-18 15:29:21"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/18/verificamos-medicos-europeus-ivermectina/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": """"MÉDICOS EUROPEUS PEDEM USO URGENTE DA IVERMECTINA”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.facebook.com/photo.php?fbid=3900692063322551&set=a.177852405606554&type=3&theater""
+                                            },
+                                            ""datePublished"": ""2021-03-18 15:29:21""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/1703-Médicos-portugueses.png__.png
+ 2021-03-16 18:11:40;https://piaui.folha.uol.com.br/lupa/2021/03/16/verificamos-joao-doria-fornecimento-luz-sao-paulo/;" """"Governador de São Paulo João Dória cogita cortar fornecimento de luz entre as 00:00 e 06:00 da manhã.  Medida extrema será adotada, caso a fase emergencial nao seja respeitada pelos paulistas. Equipe da Veja teve acesso ao documento em analise pelo centro de gerenciamento do palacio dos bandeirantes"""""; Post no Instagram; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-16 18:11:40"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/16/verificamos-joao-doria-fornecimento-luz-sao-paulo/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": """"Governador de São Paulo João Dória cogita cortar fornecimento de luz entre as 00:00 e 06:00 da manhã.  Medida extrema será adotada, caso a fase emergencial nao seja respeitada pelos paulistas. Equipe da Veja teve acesso ao documento em analise pelo centro de gerenciamento do palacio dos bandeirantes"""",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Instagram"",
+                                                ""sameAs"": ""ttps://www.instagram.com/p/CMa6lZoLkx6/?utm_source=ig_embed""
+                                            },
+                                            ""datePublished"": ""2021-03-16 18:11:40""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/1603-Luz-Doria.jpg
+ 2021-03-12 16:27:04;https://piaui.folha.uol.com.br/lupa/2021/03/12/verificamos-pesquisas-eficacia-ivermectina/;" """"Saiu o Randomizado da Ivermectina Pronto esta ai a eficácia e a comprovação cientifica https://ivmmeta.com/ PRA QUEM QUERIA 'CIÊNCIA' ESTÁ AÍ 90% de eficácia na profilaxia 80% no tratamento precoce 50% no tratamento tardio"""""; Post no WhatsApp; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-12 16:27:04"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/12/verificamos-pesquisas-eficacia-ivermectina/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": """"Saiu o Randomizado da Ivermectina Pronto esta ai a eficácia e a comprovação cientifica https://ivmmeta.com/ PRA QUEM QUERIA 'CIÊNCIA' ESTÁ AÍ 90% de eficácia na profilaxia 80% no tratamento precoce 50% no tratamento tardio"""",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no WhatsApp"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-03-12 16:27:04""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/1103-Ivermectina.png
+ 2021-03-11 20:10:06;https://piaui.folha.uol.com.br/lupa/2021/03/11/verificamos-anvisa-26-mortes-vacinas-covid-19-ultimas-24-horas/;" ""Anvisa registra 26 novos óbitos por vacinas nas últimas 24 horas"""; Post no WhatsApp; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-11 20:10:06"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/11/verificamos-anvisa-26-mortes-vacinas-covid-19-ultimas-24-horas/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""Anvisa registra 26 novos óbitos por vacinas nas últimas 24 horas"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no WhatsApp"",
+                                                ""sameAs"": ""https://www.estudosnacionais.com/30957/anvisa-registra-26-novos-obitos-por-vacinas-nas-ultimas-24-horas/""
+                                            },
+                                            ""datePublished"": ""2021-03-11 20:10:06""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/anvisa-26-obitos-covid-vacinas-24-horas-1.jpg
+ 2021-03-09 18:51:29;https://piaui.folha.uol.com.br/lupa/2021/03/09/verificamos-estoque-vacinas-pfizer-janssen/;" """"GRANDE DIA GOVERNO BOLSONARO COMPRA TODO ESTOQUE DAS VACINAS PFIZER E JOHNSON E JOHNSON DISPONÍVEIS NO MERCADO” """; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-09 18:51:29"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/09/verificamos-estoque-vacinas-pfizer-janssen/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": """"GRANDE DIA GOVERNO BOLSONARO COMPRA TODO ESTOQUE DAS VACINAS PFIZER E JOHNSON E JOHNSON DISPONÍVEIS NO MERCADO” "",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.facebook.com/bolsonaropr2022/photos/a.1788965448061070/2668219856802287/?type=3&theater""
+                                            },
+                                            ""datePublished"": ""2021-03-09 18:51:29""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/0903-Estoque-vacinas-1.png
+ 2021-03-05 20:06:14;https://piaui.folha.uol.com.br/lupa/2021/03/05/verificamos-mortalidade-aumentou-israel-vacina/;" ""“Pesquisadores: Taxas De Mortalidade Disparam Em Israel Após Vacinação Contra COVID Da Pfizer”"""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-05 20:06:14"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/05/verificamos-mortalidade-aumentou-israel-vacina/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""“Pesquisadores: Taxas De Mortalidade Disparam Em Israel Após Vacinação Contra COVID Da Pfizer”"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.contrafatos.com.br/pesquisadores-taxas-de-mortalidade-disparam-em-israel-apos-vacinacao-contra-covid-da-pfizer/?fbclid=IwAR3auvdWumyzHKGT3B7jTtRES77qHYxqsMausGVxqZUYjoyo_58GCwm8DJo""
+                                            },
+                                            ""datePublished"": ""2021-03-05 20:06:14""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/0503-Mortalidade-Israel.png
+ 2021-03-05 16:18:56;https://piaui.folha.uol.com.br/lupa/2021/03/05/verificamos-brasil-fila-espera-vacinas/;" """""; Post no WhatsApp; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-05 16:18:56"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/05/verificamos-brasil-fila-espera-vacinas/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": """",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no WhatsApp"",
+                                                ""sameAs"": ""Na hipotese do Brasil comprar alguma vacina de eficácia comprovada terá que entrar na fila de espera.  Sputinik: 67 países na frente Pfizer: 115 paises na frnte Moderna: 68 países na frente Janssen: 55 paises na frente. Não há condições de entregar vacinas para o Brasil em 2021. O Brasil só pode contar com as vacinas do Butantã e da Fiocruz. O resto é papo furado!”""
+                                            },
+                                            ""datePublished"": ""2021-03-05 16:18:56""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/0403-Wapp-vacinas.png
+ 2021-03-03 17:54:45;https://piaui.folha.uol.com.br/lupa/2021/03/03/verificamos-vacinas-covid-19-501-mortes/;" ""501 pessoas morreram após tomar a vacina contra Covid"""; Vídeo no WhatsApp; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-03 17:54:45"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/03/verificamos-vacinas-covid-19-501-mortes/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": ""501 pessoas morreram após tomar a vacina contra Covid"",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Vídeo no WhatsApp"",
+                                                ""sameAs"": ""https://www.facebook.com/enfvictornascimento/posts/270365387981445""
+                                            },
+                                            ""datePublished"": ""2021-03-03 17:54:45""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/501-pessoas-morreram-vacina-covid-ana-paula-henkel.jpg
+ 2021-03-02 19:13:12;https://piaui.folha.uol.com.br/lupa/2021/03/02/verificamos-oms-lockdown-suecia/;" """"E AGORA? OMS afirma que Suécia, que não fez lockdown, é 'modelo a ser seguido'” """; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-02 19:13:12"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/02/verificamos-oms-lockdown-suecia/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": """"E AGORA? OMS afirma que Suécia, que não fez lockdown, é 'modelo a ser seguido'” "",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": ""https://www.facebook.com/218998258693876/photos/a.219091398684562/820850301841999/?type=3&theater""
+                                            },
+                                            ""datePublished"": ""2021-03-02 19:13:12""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/0203-Suécia-e-OMS.png
+ 2021-03-01 19:34:25;https://piaui.folha.uol.com.br/lupa/2021/03/01/verificamos-inalacao-agua-oxigenada-bicarbonato-sodio/;" """"(...) Nós vamos precisar apenas de um nebulizador caseiro, 100g de bicarbonato de sódio, 100 ml de água oxigenada volume 10 e 900 ml de água mineral.  (...) Nós vamos pegar o peróxido de hidrogênio, que é água oxigenada, para facilitar e misturar também na água mineral. Tá pronto. Fica um líquido translúcido. Enche o bujão do seu nebulizador e... Olha que facilidade. Cinco minutos é o suficiente, uma vez por dia, para prevenção. Para tratamento, nós podemos fazer com cinco minutos de três a cinco vezes ao dia. (...)"""""; Post no Facebook; Falso;"                                
+                                    {
+                                        ""@context"": ""http://schema.org"",
+                                        ""@type"": [""ClaimReview""],
+                                        ""datePublished"": ""2021-03-01 19:34:25"",
+                                        ""url"": ""https://piaui.folha.uol.com.br/lupa/2021/03/01/verificamos-inalacao-agua-oxigenada-bicarbonato-sodio/"",
+                                        ""author"": {
+                                            ""@type"": ""Organization"",
+                                            ""url"": ""https://piaui.folha.uol.com.br/lupa"",
+                                            ""sameAs"": ""https://twitter.com/agencialupa"",
+                                            ""name"": ""Agência Lupa""
+                                        },
+                                        ""claimReviewed"": """"(...) Nós vamos precisar apenas de um nebulizador caseiro, 100g de bicarbonato de sódio, 100 ml de água oxigenada volume 10 e 900 ml de água mineral.  (...) Nós vamos pegar o peróxido de hidrogênio, que é água oxigenada, para facilitar e misturar também na água mineral. Tá pronto. Fica um líquido translúcido. Enche o bujão do seu nebulizador e... Olha que facilidade. Cinco minutos é o suficiente, uma vez por dia, para prevenção. Para tratamento, nós podemos fazer com cinco minutos de três a cinco vezes ao dia. (...)"""",
+                                        ""reviewRating"": {
+                                            ""@type"": ""Rating"",
+                                            ""ratingValue"": 4,
+                                            ""bestRating"": 6,
+                                            ""alternateName"": ""Falso"",
+                                            ""image"": """"
+                                        },
+                                        ""itemReviewed"": {
+                                            ""@type"": ""CreativeWork"",
+                                            ""author"": {
+                                                ""@type"": ""Person"",
+                                                ""name"": ""Post no Facebook"",
+                                                ""sameAs"": """"
+                                            },
+                                            ""datePublished"": ""2021-03-01 19:34:25""
+                                        }
+                                    }
+                                    ";https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/03/0103-inalação-bicarbonato.png
  2021-02-23 19:44:49;https://piaui.folha.uol.com.br/lupa/2021/02/23/verificamos-vacinas-covid-19-cegueira-reino-unido/;" ""Vacinas Causam 600 Novos Casos De Doenças Oculares E Deixam 5 Pessoas Cegas, De Acordo Com O Governo Do Reino Unido"""; Post no Facebook; Falso;"                                
                                     {
                                         ""@context"": ""http://schema.org"",

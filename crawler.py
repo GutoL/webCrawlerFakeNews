@@ -51,7 +51,6 @@ def get_data_from_json(json_data):
     return date, text, source, classification, json_data
 
 def scrape_fake(link):
-    print('> Scrapping', link)
     soup = get_soup(link)
 
     links = soup.findAll('img')
@@ -128,7 +127,9 @@ if __name__ == "__main__":
     
     fail = 0
 
+    cont=1
     for link in all_links:
+        print(cont,'> Scrapping', link)
         date_list, link_list, text_list, source_list, classification_list, json_data_list, image_link_list = scrape_fake(link)
         
         if json_data_list is not None:
@@ -144,6 +145,7 @@ if __name__ == "__main__":
                     })
         else:
             fail+=1
+        cont+=1
 
     print('Sucess:',len(all_links)-fail,'Fail:',fail,'Total:',len(all_links))
     
