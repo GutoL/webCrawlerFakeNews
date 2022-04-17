@@ -1,4 +1,4 @@
-# webCrawlerFakeNews
+# Web Crawler for Download of Fake News
 Web crawler escrito em python para extração de fake news sobre a COVID-19 no site: https://piaui.folha.uol.com.br/lupa/tag/verificamoscovid/
 
 O crawler busca as informações sobre fake news do site e salva um data frame com as seguintes informações das fake news:
